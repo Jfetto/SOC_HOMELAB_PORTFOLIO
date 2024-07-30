@@ -35,7 +35,7 @@
   ### SIEM
   - Cloud based : LimaCharlie 
 
-  ### packet inspection usuing wireshark 
+  ### packet inspection using wireshark 
 
 
 
