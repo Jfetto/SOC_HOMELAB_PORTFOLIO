@@ -447,7 +447,3 @@ My thought on this is if I am getting events from a process that I want to kill 
 
 
 
-
-
-
-![image](https://github.com/user-attachments/assets/64b64f16-6dfb-4e26-9033-fc22a4b73c8c)
