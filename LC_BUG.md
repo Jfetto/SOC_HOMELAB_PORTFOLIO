@@ -1,5 +1,9 @@
 When having a reverse shell opened via sliver on a vulnerable host that is being monitored by LC, if you rename the implant while it is still active, LC does not notice this change and still kicks out events with the past exe name. The file does change in the filesystem on LC, but not for any events. This happens both in live feed and Timeline
 
+once I reload task-manger the name for the process changes locally. In LC the only place the name changes is in the filesystem, even The process tree from the LC dashboard never updates. 
+
+My thought on this is if I am getting events from a process that I want to kill and then go in to the process to kill it, I wont be able to find the process if it has been changed.
+
 # Screenshots 
 ## call back from implant Prior to the change 
 ![image](https://github.com/user-attachments/assets/3285ac02-f7a2-483e-a934-25ceb53458c3)
