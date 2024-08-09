@@ -3,12 +3,15 @@ When having a reverse shell opened via sliver on a vulnerable host that is being
 # Screenshots 
 ## call back from implant Prior to the change 
 ![image](https://github.com/user-attachments/assets/3285ac02-f7a2-483e-a934-25ceb53458c3)
+![image](https://github.com/user-attachments/assets/64b64f16-6dfb-4e26-9033-fc22a4b73c8c)
 
 ## call back from implant after change 
 
 ![image](https://github.com/user-attachments/assets/4281041d-5908-452d-8668-6a0384202628)
 
 ![image](https://github.com/user-attachments/assets/de229a10-b189-4ebe-a949-66b2fd067e16)
+![image](https://github.com/user-attachments/assets/14748593-3be5-46a8-adb6-91e86501eacc)
+
 
 
 #Events
@@ -436,3 +439,10 @@ When having a reverse shell opened via sliver on a vulnerable host that is being
 }
 
 ```
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/64b64f16-6dfb-4e26-9033-fc22a4b73c8c)
