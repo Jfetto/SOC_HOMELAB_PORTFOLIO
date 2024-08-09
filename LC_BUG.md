@@ -11,6 +11,7 @@ When having a reverse shell opened via sliver on a vulnerable host that is being
 
 ![image](https://github.com/user-attachments/assets/de229a10-b189-4ebe-a949-66b2fd067e16)
 ![image](https://github.com/user-attachments/assets/14748593-3be5-46a8-adb6-91e86501eacc)
+![image](https://github.com/user-attachments/assets/b4b99ebf-3020-423f-8146-e8b9b7a399b9)
 
 
 
