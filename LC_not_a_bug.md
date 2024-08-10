@@ -1,7 +1,11 @@
-# This is not a bug, Eric Capuano explained what i was experiencing 
+# This is not a bug, Eric Capuano explained what I was experiencing 
 
 ## telemetry is being pulled from the memory when you're changing the name of a process the PID stays the same. The hash for the file stays the same, but the name can change but the name will never change in the memory. It only will change in task manager. 
 ## The memory of the running process will not change unless of course, the process is stopped and restarted
+
+
+
+
 
 When having a reverse shell opened via sliver on a vulnerable host that is being monitored by LC, if you rename the implant while it is still active, LC does not notice this change and still kicks out events with the past exe name. The file does change in the filesystem on LC, but not for any events. This happens both in live feed and Timeline
 
